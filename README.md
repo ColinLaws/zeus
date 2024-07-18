@@ -11,3 +11,6 @@ for both weather and the web.
 | `bun`      | `^1.1.20`  |
 
 # Building
+
+To host the app locally with Hot module refresh (HMR):
+`bun run dev`

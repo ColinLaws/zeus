@@ -1,8 +1,13 @@
-# React + Vite
+# Zeus 🌩️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Zeus is an open source React weather app that I am building to showcase my love
+for both weather and the web.
 
-Currently, two official plugins are available:
+# Dependencies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+| Dependency | Version    |
+| :--------- | :--------- |
+| `node`     | `^20.11.0` |
+| `bun`      | `^1.1.20`  |
+
+# Building

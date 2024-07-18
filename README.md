@@ -5,6 +5,8 @@ for both weather and the web.
 
 # Dependencies
 
+Make sure to have the following tools/runtimes on your dev machine before getting started.
+
 | Dependency | Version    |
 | :--------- | :--------- |
 | `node`     | `^20.11.0` |
